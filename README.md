@@ -10,17 +10,10 @@ A full-featured **e-commerce client** built with Flutter. It connects to the pub
 ---
 # ScreenShot 
 
-<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/fcd76671-7ec1-46a0-8753-ece73a4389f2" />
-<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/dc99c64a-88ba-4ef6-8f03-e47f7755c4d1" />
-<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/29a8b87c-c06e-44ca-b5f6-ced68381eb27" />
-<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/b4d997f6-9040-4d1d-bd40-29e3c3af3d39" />
-<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/fd718c30-1c6d-4432-bca5-5c0ea9ae2bdc" />
-<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/a3f47c85-9c2c-4ed0-ab7d-fb006c88b8ec" />
-<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/d13b6a1f-997a-4a7f-8535-637d3f9ec728" />
-<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/e86803f8-6a5b-48fb-a6a7-b63140d7c59a" />
-<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/a250ca02-1de3-4b96-b69f-10f95160178b" />
-<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/4be2b77e-0ec6-46ff-921e-e79d06b9db19" />
-<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/b8a23055-df15-4086-b77d-b5167caad2f4" />
+<img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/e897f8fb-0c00-4855-8ac7-90f460de8525" />
+
+<img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/7a5d14f1-060e-4743-85b1-94046c6ff398" />
+
 
 
 
